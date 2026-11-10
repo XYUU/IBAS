@@ -1,11 +1,11 @@
->**This project will be retired on 1 September 2026. By 'retired', I mean that there will be no further development of IBC after that date. Nor will IBC be actively supported on this repository.**
-
->**See [Discussion 347](https://github.com/IbcAlpha/IBC/discussions/347) for the reasons for this. If you have any queries regarding this, please post them either there, or on the [IBC User Group](https://groups.io/g/ibcalpha).**
-
-
+> **This project is a community-maintained fork of IBC. Following the retirement of the original IBC project on 1 September 2026, development has continued independently in this repository.**
+>
+> **Its primary focus is to enable fully automated weekly startup and management of Interactive Brokers TWS and IB Gateway.**
+>
+> **This fork introduces improved GUI automation by utilizing IBKR internationalization resources for component identification, making it compatible with installations running in different languages. It also adopts a more modern build system and development workflow, enhancing maintainability and facilitating future improvements.**
 
 **Download the
-[latest official release here](https://github.com/XYUU/IBC/releases/latest)**
+[latest official release here](https://github.com/XYUU/IBAS/releases/latest)**
 
 Since the original author is no longer planning to maintain this project, and as a long‑time user who has benefited from it and has the ability to continue its development, I will take over the maintenance going forward. I plan to keep improving the project, especially in terms of user interaction and overall usability.
 
