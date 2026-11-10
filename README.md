@@ -71,7 +71,7 @@ Downloads
 
 If you just want to use IBC without modifying it, you should download
 the latest official release ZIP which you can find
-[here](https://github.com/XYUU/IBC/releases/latest). Note that
+[here](https://github.com/XYUU/IBAS/releases/latest). Note that
 there are separate release files for Windows, macOS and Linux.
 
 Users who want to make changes to IBC should clone this repository
@@ -104,7 +104,7 @@ for improvement, you should join the [IBC User Group](https://groups.io/g/ibcalp
 If you're convinced you've found a bug in IBC, please report it via either
 the
 [IBC User Group](https://groups.io/g/ibcalpha) or the
-[GitHub Issue Tracker](https://github.com/XYUU/IBC/issues).
+[GitHub Issue Tracker](https://github.com/XYUU/IBAS/issues).
 Please provide as much evidence as you can, especially the versions of IBC
 and TWS/Gateway you're using and a full description of the incorrect
 behaviour you're seeing.
@@ -153,7 +153,7 @@ IBController users are invited to switch to IBC.
 
 If you switch from IBController to IBC, please note that there are some
 significant differences, and it's best to install IBC from scratch using
-the download on the [Releases page](https://github.com/XYUU/IBC/releases).
+the download on the [Releases page](https://github.com/XYUU/IBAS/releases).
 The last section of the [IBC User Guide](userguide.md) contains useful
 information about these differences.
 
